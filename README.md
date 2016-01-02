@@ -1,0 +1,2 @@
+# ksh
+learning ksh
